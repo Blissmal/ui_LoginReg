@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029319507097",
+    "project_id": "chatapp-57f35",
+    "storage_bucket": "chatapp-57f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029319507097:android:7dc125478f1bd371308c08",
+        "android_client_info": {
+          "package_name": "com.blissmal.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029319507097-7iukjll8e2po8trja0oneauqm8isrbru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4M8K2daqZPlWAvOhsjHZMLuo3s-K6x3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029319507097-7iukjll8e2po8trja0oneauqm8isrbru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
